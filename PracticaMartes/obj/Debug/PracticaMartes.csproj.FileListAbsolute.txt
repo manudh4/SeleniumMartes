@@ -17,4 +17,3 @@ C:\Users\mdelgado\source\repos\PracticaMartes\PracticaMartes\obj\Debug\PracticaM
 C:\Users\mdelgado\source\repos\PracticaMartes\PracticaMartes\bin\Debug\PracticaMartes.dll.config
 C:\Users\mdelgado\source\repos\PracticaMartes\PracticaMartes\bin\Debug\PracticaMartes.dll
 C:\Users\mdelgado\source\repos\PracticaMartes\PracticaMartes\obj\Debug\PracticaMartes.dll
-C:\Users\mdelgado\source\repos\PracticaMartes\PracticaMartes\obj\Debug\PracticaMartes.csprojResolveAssemblyReference.cache
