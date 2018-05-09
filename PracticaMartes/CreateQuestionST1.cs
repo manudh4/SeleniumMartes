@@ -135,7 +135,7 @@ namespace PracticaMartes
             }
             catch (Exception e)
             {
-                Console.WriteLine("Algo falló: " + e.Message);
+                Assert.Fail("Algo falló: " + e.Message);
             }
         }
         private bool IsElementPresent(By by)
